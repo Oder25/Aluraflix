@@ -1,0 +1,12 @@
+body{
+    color:darkgreen;
+    background:blue;
+    margin: 0px;
+}
+
+header{
+     border-bottom: solid 2px red;
+     padding:20px;
+     font-size:32px;
+     color:blue;(42,122,228);
+}
